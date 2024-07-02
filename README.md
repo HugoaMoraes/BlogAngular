@@ -39,6 +39,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Info:
 
-Aplicação desenvolvida em angular para estudo dos do framework.
+Aplicação desenvolvida em angular para estudo do framework.
 
-Application developed in Angular for studying the concepts of the framework.
+Application developed in Angular to study the framework.
